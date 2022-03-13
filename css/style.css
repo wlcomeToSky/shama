@@ -20,9 +20,10 @@
 		}
 
 		.text-under-logo{
+			font-size: 60px;
 			position: absolute;
 			top:80%; 
-			left: 41%;
+			left: 27%;
 			opacity: 70%;
 		}
 		.black-line{
@@ -444,13 +445,17 @@ text-decoration: underline;
 
 @media screen and (max-width: 1200px) {
   .banner-up{
-  	height: 580px;
+  	height: 975px;
   }
   .logo{
-		
+		height: 500px;
+		width: 500px;
+		position: absolute;
+		left: 25%;
+		top: 26%;
 		}
 		.black-line{
-			margin-top: 175px;
+			margin-top: 1310px;
 		}
 		.gray-line{
 			margin-top: 174px;
