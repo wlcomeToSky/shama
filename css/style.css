@@ -34,9 +34,10 @@
 			width:100%;
 			height: 400px;
 		}
-		.shama{
+		.shama, .shama1{
 			text-align:center;
 		}
+		
 
 		.gray-line{
 			background: rgb(15, 15, 15, .9);
@@ -455,15 +456,40 @@ text-decoration: underline;
 		top: 26%;
 		}
 		.black-line{
-			margin-top: 1310px;
+			margin-top: 575px;
+			height: 630px;
 		}
 		.gray-line{
-			margin-top: 174px;
+			margin-top: 774px;
 		}	
 		.help{
-			margin-top: 173px;
+			margin-top: 773px;
 			margin-left: 10px;
 		}
+		.shama1{
+			position: absolute;
+			left: 230px;
+			margin-top:100px;
+
+		}
+		.button1{
+			margin-left: -70px;
+			width: 400px;
+			height: 130px;
+		}
+		.hi{
+			margin-top:15px;
+			margin-left: 30px;
+		}
+		.buy{
+			position: absolute;
+			top: 30%;
+		}
+		.text2{
+			font-size: 30px;
+			margin-left: -40px;
+		}
+
 }
 
 
